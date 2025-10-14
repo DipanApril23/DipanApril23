@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img src="//profile-counter.glitch.me/DipanApril23/count.svg"  />
+  ![](https://komarev.com/ghpvc/?username=DipanApril23&style=flat-square)
 </div>
 
 ###
