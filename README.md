@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DipanApril23&style=flat-square&color=00FFFF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DipanApril23&abbreviated=true&base=1000&style=plastic&color=red" alt="Profile views"/>
 </div>
 
 ###
