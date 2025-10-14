@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=DipanApril23&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=DipanApril23&style=flat-square&color=00FFFF" alt="Profile views"/>
 </div>
 
 ###
