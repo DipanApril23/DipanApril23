@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DipanApril23/count.svg?"  />
+  <img src="//profile-counter.glitch.me/DipanApril23/count.svg"  />
 </div>
 
 ###
